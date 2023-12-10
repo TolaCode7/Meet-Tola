@@ -6,7 +6,10 @@ Building Brands and Products with Innovative Web Development and UI Design
 
 
 ## Skills
-- JavaScript 
+- Nodejs
+- Nextjs
+- React
+- JavaScript
 - HTML and CSS
 - Figma
 - Photoshop 
