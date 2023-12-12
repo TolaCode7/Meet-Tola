@@ -2,7 +2,7 @@
 #### Web Developer - UI & UX designer
 Building Brands and Products with Innovative Web Development and UI Design
 
-![Web Developer - UI & UX designer](https://pbs.twimg.com/profile_banners/1481704722616799235/1680000029/1500x500)
+![Web Developer - UI & UX designer](https://ibb.co/YZ4B4KQ)
 
 
 ## Skills
